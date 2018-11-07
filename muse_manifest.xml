@@ -1,0 +1,273 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/vantaa32/SAC-website/blob/master" resolutions="1x" timestamp="1541592589671">
+  <folder name="phone">
+    <folder name="css">
+      <file name="__.css" crc="344592557" ref="phone>일정"/>
+      <file name="index.css" crc="344592557" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4108646006" seo="true" mt="1541585575041" redirect="false"/>
+    <file name="일정.html" crc="76829702" seo="true" mt="1541585536924" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="141077206"/>
+    <file name="index.css" crc="4065666886" ref="index"/>
+    <file name="__.css" crc="3888025224" ref="일정"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:일정:phone>index:phone>일정"/>
+    <file name="museutils.js" crc="4232573551" ref="index:일정:phone>index:phone>일정"/>
+    <file name="whatinput.js" crc="86476730" ref="index:일정:phone>index:phone>일정"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:일정:phone>index:phone>일정"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:일정:phone>index:phone>일정"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:일정"/>
+    <file name="require.js" crc="4234670167" ref="index:일정:phone>index:phone>일정"/>
+  </folder>
+  <folder name="images">
+    <file name="andrew-preble-199429-unsplash.jpg" crc="381102126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u555.png" crc="4142171972" ref="index"/>
+    <file name="u555-r.png" crc="4232445627" ref="index"/>
+    <file name="u572.png" crc="4171472825" ref="index"/>
+    <file name="u572-r.png" crc="359034763" ref="index"/>
+    <file name="u595.png" crc="108311698" ref="index"/>
+    <file name="u595-r.png" crc="3847135871" ref="index"/>
+    <file name="u616.png" crc="3843662668" ref="index"/>
+    <file name="u616-r.png" crc="4162616121" ref="index"/>
+    <file name="u636.png" crc="3890552611" ref="index"/>
+    <file name="u636-r.png" crc="4043456611" ref="index"/>
+    <file name="u458.png" crc="3874818407" ref="index"/>
+    <file name="u458-r.png" crc="4146337881" ref="index"/>
+    <file name="u534.png" crc="532843556" ref="index"/>
+    <file name="u534-r.png" crc="3948335766" ref="index"/>
+    <file name="u656.png" crc="289678813" ref="index"/>
+    <file name="u656-r.png" crc="517376930" ref="index"/>
+    <file name="한과영 로고.png" crc="98289081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u177-4.png" crc="491705670" ref="index"/>
+    <file name="u178-4.png" crc="3977737888" ref="index"/>
+    <file name="u355-4.png" crc="70949651" ref="index"/>
+    <file name="sac.jpg" crc="3981354142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u361-5.png" crc="4156687628" ref="index"/>
+    <file name="u1600-4.png" crc="211611602" ref="index"/>
+    <file name="u352-4.png" crc="340202026" ref="index"/>
+    <file name="그루브.png" crc="420893480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="루니.png" crc="4055975578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="놀소리.png" crc="461532486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="어우러짐.png" crc="4175944597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="딜라.png" crc="3850574614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="별보라.png" crc="107036153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="엠필.png" crc="3978992841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="스터전.png" crc="4254184712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="쏠.png" crc="3835364921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="켐파.png" crc="3902731119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="루비콘.png" crc="207074519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="퓨어.png" crc="4152166353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2416-4.png" crc="4020396442" ref="index"/>
+    <file name="map_2017.jpg" crc="3987526417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2429-4.png" crc="4108809479" ref="index"/>
+    <file name="u2558-4.png" crc="486263762" ref="index"/>
+    <file name="creative.png" crc="161265422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="help.png" crc="3941184198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="passion (1).png" crc="4066065189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symbol-logo.png" crc="4285696613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flogo_rgb_hex-brc-site-250.png" crc="150353211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sub6_1_3_img2.png" crc="496678841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u703-12.png" crc="388246709" ref="index"/>
+    <file name="u1681.png" crc="3946606498" ref="index"/>
+    <file name="u1681-r.png" crc="308570591" ref="index"/>
+    <file name="u1683.png" crc="4170281606" ref="index"/>
+    <file name="u1683-r.png" crc="289747482" ref="index"/>
+    <file name="u1678.png" crc="156781667" ref="index"/>
+    <file name="u1678-r.png" crc="3946223805" ref="index"/>
+    <file name="u1677.png" crc="4083174772" ref="index"/>
+    <file name="u1677-r.png" crc="254040424" ref="index"/>
+    <file name="u1693.png" crc="4079175474" ref="index"/>
+    <file name="u1693-r.png" crc="4201863956" ref="index"/>
+    <file name="u1695.png" crc="3791184933" ref="index"/>
+    <file name="u1695-r.png" crc="4236462776" ref="index"/>
+    <file name="u1733.png" crc="12888043" ref="index"/>
+    <file name="u1733-r.png" crc="307335686" ref="index"/>
+    <file name="u1735.png" crc="110499244" ref="index"/>
+    <file name="u1735-r.png" crc="163816588" ref="index"/>
+    <file name="u1737.png" crc="357484333" ref="index"/>
+    <file name="u1737-r.png" crc="3842869076" ref="index"/>
+    <file name="u1739.png" crc="110499244" ref="index"/>
+    <file name="u1739-r.png" crc="395988655" ref="index"/>
+    <file name="u1742.png" crc="4265067557" ref="index"/>
+    <file name="u1742-r.png" crc="457697620" ref="index"/>
+    <file name="u1741.png" crc="517285889" ref="index"/>
+    <file name="u1741-r.png" crc="3980151261" ref="index"/>
+    <file name="u1685.png" crc="448795469" ref="index"/>
+    <file name="u1685-r.png" crc="3927357297" ref="index"/>
+    <file name="u1687.png" crc="3899589792" ref="index"/>
+    <file name="u1687-r.png" crc="4094870697" ref="index"/>
+    <file name="u1722.png" crc="7672957" ref="index"/>
+    <file name="u1722-r.png" crc="4288566358" ref="index"/>
+    <file name="u1721.png" crc="4170281606" ref="index"/>
+    <file name="u1721-r.png" crc="107705317" ref="index"/>
+    <file name="u1690.png" crc="4041972005" ref="index"/>
+    <file name="u1690-r.png" crc="4172362927" ref="index"/>
+    <file name="u1689.png" crc="4136943932" ref="index"/>
+    <file name="u1689-r.png" crc="4232157780" ref="index"/>
+    <file name="u1729.png" crc="4041972005" ref="index"/>
+    <file name="u1729-r.png" crc="4172362927" ref="index"/>
+    <file name="u1731.png" crc="4013519756" ref="index"/>
+    <file name="u1731-r.png" crc="490640835" ref="index"/>
+    <file name="u1675-11.png" crc="4258973612" ref="index"/>
+    <file name="u1710.png" crc="4106575753" ref="index"/>
+    <file name="u1710-r.png" crc="325781892" ref="index"/>
+    <file name="u1709.png" crc="3984872393" ref="index"/>
+    <file name="u1709-r.png" crc="527713288" ref="index"/>
+    <file name="u1794.png" crc="125917950" ref="index"/>
+    <file name="u1794-r.png" crc="4164982901" ref="index"/>
+    <file name="u1793.png" crc="4170281606" ref="index"/>
+    <file name="u1793-r.png" crc="4105620583" ref="index"/>
+    <file name="u1702.png" crc="4201060111" ref="index"/>
+    <file name="u1702-r.png" crc="377799204" ref="index"/>
+    <file name="u1701.png" crc="41297873" ref="index"/>
+    <file name="u1701-r.png" crc="31230029" ref="index"/>
+    <file name="u1717.png" crc="130900895" ref="index"/>
+    <file name="u1717-r.png" crc="101328265" ref="index"/>
+    <file name="u1719.png" crc="110499244" ref="index"/>
+    <file name="u1719-r.png" crc="3788128272" ref="index"/>
+    <file name="u1705.png" crc="4150852472" ref="index"/>
+    <file name="u1705-r.png" crc="3828179152" ref="index"/>
+    <file name="u1707.png" crc="3925776456" ref="index"/>
+    <file name="u1707-r.png" crc="180583734" ref="index"/>
+    <file name="u1786.png" crc="446291557" ref="index"/>
+    <file name="u1786-r.png" crc="450404474" ref="index"/>
+    <file name="u1785.png" crc="309160092" ref="index"/>
+    <file name="u1785-r.png" crc="3773729655" ref="index"/>
+    <file name="u1698.png" crc="530081973" ref="index"/>
+    <file name="u1698-r.png" crc="4261967739" ref="index"/>
+    <file name="u1697.png" crc="324133788" ref="index"/>
+    <file name="u1697-r.png" crc="360555071" ref="index"/>
+    <file name="u1781.png" crc="4282893760" ref="index"/>
+    <file name="u1781-r.png" crc="372313916" ref="index"/>
+    <file name="u1783.png" crc="4170281606" ref="index"/>
+    <file name="u1783-r.png" crc="3858694919" ref="index"/>
+    <file name="u1713.png" crc="402977464" ref="index"/>
+    <file name="u1713-r.png" crc="3923163150" ref="index"/>
+    <file name="u1715.png" crc="66465393" ref="index"/>
+    <file name="u1715-r.png" crc="4209134536" ref="index"/>
+    <file name="u1778.png" crc="169290530" ref="index"/>
+    <file name="u1778-r.png" crc="124466413" ref="index"/>
+    <file name="u1777.png" crc="4170281606" ref="index"/>
+    <file name="u1777-r.png" crc="3911831012" ref="index"/>
+    <file name="u1725.png" crc="218396140" ref="index"/>
+    <file name="u1725-r.png" crc="493881788" ref="index"/>
+    <file name="u1727.png" crc="219369088" ref="index"/>
+    <file name="u1727-r.png" crc="3805882919" ref="index"/>
+    <file name="u1745.png" crc="3866228721" ref="index"/>
+    <file name="u1745-r.png" crc="254364810" ref="index"/>
+    <file name="u1747.png" crc="194142389" ref="index"/>
+    <file name="u1747-r.png" crc="3916618367" ref="index"/>
+    <file name="u1749.png" crc="4099629399" ref="index"/>
+    <file name="u1749-r.png" crc="3770330847" ref="index"/>
+    <file name="u1751.png" crc="517285889" ref="index"/>
+    <file name="u1751-r.png" crc="506716855" ref="index"/>
+    <file name="u1758.png" crc="3854628122" ref="index"/>
+    <file name="u1758-r.png" crc="4258241702" ref="index"/>
+    <file name="u1757.png" crc="475063028" ref="index"/>
+    <file name="u1757-r.png" crc="9785480" ref="index"/>
+    <file name="u1753.png" crc="56451712" ref="index"/>
+    <file name="u1753-r.png" crc="3784546611" ref="index"/>
+    <file name="u1755.png" crc="115733401" ref="index"/>
+    <file name="u1755-r.png" crc="4291098186" ref="index"/>
+    <file name="u1789.png" crc="3897230739" ref="index"/>
+    <file name="u1789-r.png" crc="3927791203" ref="index"/>
+    <file name="u1791.png" crc="309160092" ref="index"/>
+    <file name="u1791-r.png" crc="265533730" ref="index"/>
+    <file name="u1774.png" crc="531282082" ref="index"/>
+    <file name="u1774-r.png" crc="4020934420" ref="index"/>
+    <file name="u1773.png" crc="110499244" ref="index"/>
+    <file name="u1773-r.png" crc="107186340" ref="index"/>
+    <file name="u1769.png" crc="15289946" ref="index"/>
+    <file name="u1769-r.png" crc="4111693611" ref="index"/>
+    <file name="u1771.png" crc="110499244" ref="index"/>
+    <file name="u1771-r.png" crc="3952895719" ref="index"/>
+    <file name="u1766.png" crc="3799084620" ref="index"/>
+    <file name="u1766-r.png" crc="449767910" ref="index"/>
+    <file name="u1765.png" crc="110499244" ref="index"/>
+    <file name="u1765-r.png" crc="259263085" ref="index"/>
+    <file name="u1762.png" crc="388793348" ref="index"/>
+    <file name="u1762-r.png" crc="488640135" ref="index"/>
+    <file name="u1761.png" crc="110499244" ref="index"/>
+    <file name="u1761-r.png" crc="20496107" ref="index"/>
+    <file name="u1633-6.png" crc="3758726109" ref="index"/>
+    <file name="u1647-6.png" crc="4012742335" ref="index"/>
+    <file name="u1654-6.png" crc="527848927" ref="index"/>
+    <file name="그림2.png" crc="418183973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="누리빛.png" crc="3775501738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="비나리.png" crc="4182609932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="서향.png" crc="3881975119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="에스라.png" crc="235663069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="이오스.png" crc="3930639439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2404-4.png" crc="3796885552" ref="index"/>
+    <file name="u2227.png" crc="3894159763" ref="index"/>
+    <file name="u2227-r.png" crc="3901778483" ref="index"/>
+    <file name="그림1.jpg" crc="320372750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3881199499" seo="true" mt="1541591604635" redirect="true"/>
+  <file name="일정.html" crc="4232007140" seo="true" mt="1541585537448" redirect="false"/>
+</manifest>
